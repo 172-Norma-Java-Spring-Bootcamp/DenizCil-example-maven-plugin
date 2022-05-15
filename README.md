@@ -6,8 +6,6 @@
 
 This project reports the version number.
 
-clone project
-
 In the project where you want to use the plugin, enter the values ​​as dependencies
 
 go to terminal and run 'mvn install'
